@@ -10,7 +10,7 @@ WinAPI -> Para obtener el frame.
 
 LibUSB -> Para detectar y mandar bytes a un dispositivo conectado a USB.
 
-OpenCV -> Para comprimir el frame a JPG.
+TurboJPEG -> Para comprimir el frame a JPG.
 
 
 
